@@ -62,7 +62,7 @@
 		<aliyun-java-sdk-core.version>3.2.3</aliyun-java-sdk-core.version>
 		<aliyun-java-sdk-dysmsapi.version>1.0.0</aliyun-java-sdk-dysmsapi.version>
 		<aliyun.oss.version>3.6.0</aliyun.oss.version>
-		<guava.version>26.0-jre</guava.version>
+		<guava.version>32.0.0-jre</guava.version>
 	</properties>
 
 	<dependencies>
@@ -229,7 +229,7 @@
 		<dependency>
 			<groupId>io.springfox</groupId>
 			<artifactId>springfox-swagger2</artifactId>
-			<version>2.9.2</version>
+			<version>2.10.0</version>
 		</dependency>
 		<dependency>
 			<groupId>io.springfox</groupId>
@@ -244,7 +244,7 @@
 		<dependency>
 			<groupId>io.springfox</groupId>
 			<artifactId>springfox-bean-validators</artifactId>
-			<version>2.9.2</version>
+			<version>2.10.0</version>
 		</dependency>
 		<!-- # 增加两个配置解决 NumberFormatException -->
 		<dependency>
@@ -300,7 +300,7 @@
 		<dependency>
 			<groupId>io.minio</groupId>
 			<artifactId>minio</artifactId>
-			<version>4.0.0</version>
+			<version>8.5.4</version>
 		</dependency>
 		<dependency>
 			<groupId>com.google.guava</groupId>
