@@ -61,7 +61,7 @@
 		<commons.version>2.6</commons.version>
 		<aliyun-java-sdk-core.version>3.2.3</aliyun-java-sdk-core.version>
 		<aliyun-java-sdk-dysmsapi.version>1.0.0</aliyun-java-sdk-dysmsapi.version>
-		<aliyun.oss.version>3.6.0</aliyun.oss.version>
+		<aliyun.oss.version>3.10.2</aliyun.oss.version>
 		<guava.version>26.0-jre</guava.version>
 	</properties>
 
@@ -370,7 +370,7 @@
         <dependency>
             <groupId>org.apache.axis2</groupId>
             <artifactId>axis2-kernel</artifactId>
-            <version>1.6.2</version>
+            <version>1.7.0</version>
             <type>jar</type>
             <scope>compile</scope>
             <exclusions>
