@@ -293,7 +293,7 @@
 		<dependency>
 			<groupId>cn.hutool</groupId>
 			<artifactId>hutool-all</artifactId>
-			<version>4.5.11</version>
+			<version>5.8.12</version>
 		</dependency>
 
 		<!-- mini文件存储服务 -->
