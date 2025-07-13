@@ -185,14 +185,14 @@
 		<dependency>
 			<groupId>com.auth0</groupId>
 			<artifactId>java-jwt</artifactId>
-			<version>3.7.0</version>
+			<version>4.5.0</version>
 		</dependency>
 
 		<!--shiro-->
 		<dependency>
 			<groupId>org.apache.shiro</groupId>
 			<artifactId>shiro-spring-boot-starter</artifactId>
-			<version>1.4.0</version>
+			<version>2.0.5</version>
 		</dependency>
 		<!-- shiro-redis -->
 		<dependency>
@@ -300,7 +300,7 @@
 		<dependency>
 			<groupId>io.minio</groupId>
 			<artifactId>minio</artifactId>
-			<version>4.0.0</version>
+			<version>8.5.4</version>
 		</dependency>
 		<dependency>
 			<groupId>com.google.guava</groupId>
@@ -370,7 +370,7 @@
         <dependency>
             <groupId>org.apache.axis2</groupId>
             <artifactId>axis2-kernel</artifactId>
-            <version>1.6.2</version>
+            <version>2.0.0</version>
             <type>jar</type>
             <scope>compile</scope>
             <exclusions>
